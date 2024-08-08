@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Nik0Cik0/Nik0Cik0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💫 About Me:
